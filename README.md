@@ -61,19 +61,19 @@ Running `flit init` will automatically populate your project with a `pyproject.t
 ### Project Structure
 
 ```
- MyProject
-├──  .venv
-├──  src
-│  └──  application
-│     ├──  data_files
-│     │  └──  static_file
-│     ├──  __init__.py
-│     ├──  app.py
-│     └──  config.ini
-├──  .gitignore
-├──  LICENSE
-├──  pyproject.toml
-└──  README.md
+MyProject
+├── .venv
+├── src
+│  └── application
+│     ├── data_files
+│     │  └── static_file
+│     ├── __init__.py
+│     ├── app.py
+│     └── config.ini
+├── .gitignore
+├── LICENSE
+├── pyproject.toml
+└── README.md
 ```
 
 ### pyproject.toml
